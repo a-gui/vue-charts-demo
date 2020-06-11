@@ -1,3 +1,6 @@
+使用 vue 和 v-charts 做的报表 demo，主要是熟悉 v-charts 的使用。
+以下包含环境搭建和启动
+
 ## Project setup
 
 ```
