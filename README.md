@@ -28,8 +28,6 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-# vue-start
-
 【环境准备】
 • node -v
 • vue --version(安装 npm install -g @vue/cli,若更新 npm update -g @vue/cli)
@@ -43,34 +41,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 npm install sass-loader node-sass webpack --save-dev
 npm install style-loader css-loader --save-dev
 • 安装 npm install jade
+
 【备注】
 在使用 echarts 生成图表时，经常需要做繁琐的数据类型转化、修改复杂的配置项，v-charts 的出现正是为了解决这个痛点。
 基于 Vue2.0 和 echarts 封装的 v-charts 图表组件，只需要统一提供一种对前后端都友好的数据格式设置简单的配置项，便可轻松生成常见的图表。
-
-## Project setup
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
