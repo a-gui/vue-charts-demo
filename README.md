@@ -1,5 +1,3 @@
-# vue-baobiao-demo
-
 ## Project setup
 
 ```
